@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @bikashsinghchouhan
-- 👀 I’m interested in learnig laguages
-- 🌱 I’m currently learning python django
-- 💞️ 
-- 📫
-- 😄
-- ⚡ 
+# 👋 Hi, I'm Bikash Kumar Singh! 
+### 🚀 Web & App Developer | IoT Enthusiast | Database Developer | Mathematics Educator  
 
-<!---
-bikashsinghchouhan/bikashsinghchouhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 Passionate about **web development, IoT, and AI-based solutions**  
+🔹 Experienced in **React, Node.js, Firebase, and database development**  
+🔹 Currently **learning Java** for backend development  
+
+### 🛠 Tech Stack
+💻 **Languages:** JavaScript, Java, Python, C, C++  
+🌐 **Frontend:** HTML, CSS, React.js  
+📡 **Backend:** Node.js, Firebase, MySQL, MongoDB  
+📊 **IoT & AI:** Raspberry Pi, OpenCV, Machine Learning  
+🔧 **Tools:** Git, GitHub, VS Code, Postman  
+
+### 📌 Featured Projects  
+- 🌱 **IoT-Based Plant Disease Detection** – [GitHub Link](#)  
+- 💻 **Full-Stack Web App for XYZ** – [GitHub Link](#)  
+- 📊 **Data Management System Using MySQL** – [GitHub Link](#)  
+
+### 📫 Connect With Me  
+💼 [LinkedIn](www.linkedin.com/in/
+bikashkrsin16815b29b
+) | 📧 Email: your.email@example.com  
