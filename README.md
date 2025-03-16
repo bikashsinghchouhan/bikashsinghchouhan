@@ -18,6 +18,4 @@
 - 📊 **Data Management System Using MySQL** – [GitHub Link](#)  
 
 ### 📫 Connect With Me  
-💼 [LinkedIn](www.linkedin.com/in/
-bikashkrsin16815b29b
-) | 📧 Email: your.email@example.com  
+💼 [LinkedIn](www.linkedin.com/in/bikashkrsin16815b29b) | 📧 Email: bikashkrsin2@gmail.com  
