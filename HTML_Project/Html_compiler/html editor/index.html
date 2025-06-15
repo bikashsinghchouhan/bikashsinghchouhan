@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mini Online Code Editor</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1>Mini Online Code Editor</h1>
+
+  <div class="editor-container">
+    <div class="editors">
+      <div>
+        <h3>HTML</h3>
+        <textarea id="html-code" placeholder="Type HTML here..."></textarea>
+      </div>
+      <div>
+        <h3>CSS</h3>
+        <textarea id="css-code" placeholder="Type CSS here..."></textarea>
+      </div>
+      <div>
+        <h3>JavaScript</h3>
+        <textarea id="js-code" placeholder="Type JavaScript here..."></textarea>
+      </div>
+    </div>
+
+    <iframe id="output"></iframe>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
