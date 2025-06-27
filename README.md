@@ -14,7 +14,7 @@
 
 ### 📌 Featured Projects  
 - 🌱 **IoT-Based Plant Disease Detection** – [GitHub Link](#)  
-- 💻 **Full-Stack Web App for XYZ** – [GitHub Link](#)  
+- 💻 **Full-Stack Web App** – [GitHub Link](#)  
 - 📊 **Data Management System Using MySQL** – [GitHub Link](#)  
 
 ### 📫 Connect With Me  
