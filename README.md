@@ -27,20 +27,50 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bikashkrsin&theme=nord&column=7&margin-w=15" alt="Trophy" />
-</div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bikashsinghchouhan/bikashsinghchouhan&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Github Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikashkrsin&layout=compact&theme=nord" alt="Top Languages" />
-</div>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bikashsinghchouhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikashkrsin&theme=nord" alt="Streak Stats" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashsinghchouhan&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=bikashsinghchouhan&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bikashsinghchouhan&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashsinghchouhan&repo=plant-disease-detection&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashsinghchouhan&repo=fullstack-web-app&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashsinghchouhan&repo=mysql-data-management&theme=tokyonight&hide_border=true"/>
+
+</div>
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
