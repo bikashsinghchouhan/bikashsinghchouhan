@@ -11,15 +11,17 @@
 ## 🎯 About Me
 
 <div align="center">
-  <p><strong>Web & App Developer | IoT Enthusiast | Database Developer | Mathematics Educator</strong></p>
+  <p><strong>Frontend Developer | React & Next.js Developer</strong></p>
   
-  🚀 Passionate about **Web Development**, **IoT**, and **AI-based Solutions**
+  🚀 Passionate about **building modern, responsive, and high-performance web applications**
   
-  💼 Experienced in **React.js**, **Node.js**, **Firebase**, and **Database Development**
+  💼 Experienced with **React.js, Next.js, Tailwind CSS, Firebase, and JavaScript**
   
-  🤖 Exploring **AI/ML**, **Computer Vision**, and **IoT Solutions**
+  ⚡ Skilled in **UI/UX implementation, API integration, and frontend architecture**
   
-  📚 Currently **learning Java for Backend Development**
+  🔧 Using **Thunder Client for API testing and development**
+  
+  📚 Currently **learning Node.js to become a Full Stack Developer**
 </div>
 
 ---
@@ -28,9 +30,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bikashsinghchouhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bikashsinghchouhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashsinghchouhan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashsinghchouhan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -60,9 +62,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashsinghchouhan&repo=plant-disease-detection&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashsinghchouhan&repo=ai-note-taking-app&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashsinghchouhan&repo=fullstack-web-app&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashsinghchouhan&repo=College-website&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -115,18 +117,7 @@
 
 ---
 
-## 📌 Featured Projects
 
-🌱 **IoT-Based Plant Disease Detection**  
-AI + IoT system for detecting plant diseases using **Raspberry Pi and OpenCV**
-
-💻 **Full-Stack Web Application**  
-Web application built using **React.js, Node.js, and Firebase**
-
-📊 **Data Management System Using MySQL**  
-Database system designed for efficient **data storage and management**
-
----
 
 ## 🎓 Current Learning
 
@@ -163,6 +154,6 @@ Database system designed for efficient **data storage and management**
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Quote" />
-</div>
+</div> -->
