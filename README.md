@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&lines=Hi+👋,+I'm+Bikash+Kumar+Singh;Web+%26+App+Developer;IoT+Enthusiast;Database+Developer;Mathematics+Educator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Bikash+Kumar+Singh;Frontend+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bikashkrsin&label=Profile%20views&color=0e75b6&style=flat" alt="bikashkrsin" />
+  <img src="https://komarev.com/ghpvc/?username=bikashsinghchouhan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 ---
@@ -62,26 +62,38 @@
 
 <div align="center">
 
+<a href="https://github.com/bikashsinghchouhan/ai-note-taking-app">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashsinghchouhan&repo=ai-note-taking-app&theme=tokyonight&hide_border=true"/>
+</a>
 
+<a href="https://github.com/bikashsinghchouhan/College-website">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashsinghchouhan&repo=College-website&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashsinghchouhan&repo=mysql-data-management&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/bikashsinghchouhan/BikashPortfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashsinghchouhan&repo=BikashPortfolio&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
 </div>
 
 ### 🌐 Frontend Development
