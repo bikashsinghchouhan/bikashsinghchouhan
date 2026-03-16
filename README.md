@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bikashkrsin&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Github Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bikashsinghchouhan/bikashsinghchouhan&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Github Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikashkrsin&layout=compact&theme=nord" alt="Top Languages" />
 </div>
 
