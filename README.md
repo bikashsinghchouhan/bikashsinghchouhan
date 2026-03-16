@@ -97,28 +97,46 @@
 </div>
 
 ### 🌐 Frontend Development
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+
 </div>
 
-### ⚙️ Backend & Databases
+---
+
+### ⚙️ Backend Development
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="45"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+
 </div>
 
-### 📊 IoT & AI
+---
+
+### 🗄️ Databases
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
 </div>
 
-- Raspberry Pi  
-- OpenCV  
-- Machine Learning  
+---
+
+### 🛠️ Tools & Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</div>
+
+<p align="center">
+⚡ API Testing with <b>Thunder Client</b>
+</p>
 
 ### 🛠️ Tools
 <div align="center">
