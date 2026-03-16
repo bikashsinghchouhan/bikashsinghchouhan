@@ -48,11 +48,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/bikashsinghchouhan/bikashsinghchouhan/output/github-contribution-grid-snake.svg">
-</p>
 
 ## 🚀 Featured Projects
 
