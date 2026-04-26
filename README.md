@@ -10,7 +10,7 @@
 
 ## 🎯 About Me
 
-<div align="center">
+<div align="">
   <p><strong>Frontend Developer | React & Next.js Developer</strong></p>
   
   🚀 Passionate about **building modern, responsive, and high-performance web applications**
